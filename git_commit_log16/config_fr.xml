@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>git_commit_log</name>
+	<displayName><![CDATA[Git Commit Log]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[Un module qui permet de visualiser les commits d&#039;un d&eacute;pot GitHub !]]></description>
+	<author><![CDATA[Thibault Fayolle]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Etes vous sure vouloir supprimer le module ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

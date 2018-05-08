@@ -1,0 +1,8 @@
+{
+    "require": {
+        "tan-tan-kanarek/github-php-client":"*"
+    },
+    "autoload": {
+        "psr-4": { "Monolog\\": ["src/", "lib/"] }
+    }
+}
